@@ -1,0 +1,39 @@
+body{
+  background-color: #181E52;
+}
+.bg1{
+  position: absolute; left: 115px; width: 80%; height: 100%; background-color: #1C2470;
+}
+.bg11{
+  position: absolute; left: 11px; width: 98%; height: 220px; background-color: #192063;
+}
+.welcome{
+  font-family: arial; color: white; text-align: center; font-size: 50px;
+}
+.alamat{
+  padding-top: 20px; font-family: arial; color: white; text-align: center; font-size: 15px;
+}
+#search{
+  font-family: arial; position: absolute; padding-top: 275px; width: 17%;; height: 100%; color: white; font-size: 11px; font-weight: bold; text-align: center;
+}
+label{
+  padding: 5px; background-color: white; color: black; margin-right: -60px; text-align: center;
+}
+input{
+  width: 90px;
+}
+#agenda{
+  margin-top: 30px;
+}
+#infoterkini{
+  font-family: arial; font-size: 11px; font-weight: bold; color: white; width: 17%; height: 100%; padding-top: 275px; padding-left: 220px; 
+}
+.content1{
+  font-family: arial; font-size: 11px; font-weight: bold; color: #F9C8FF; width: 17%; height: 100%; padding-left: 220px;
+}
+.isicontent1{
+  font-family: arial; font-size: 11px; font-weight: bold; color: white; width: 17%; height: 100%; padding-left: 220px;
+}
+.content2{
+  font-family: arial; font-size: 11px; font-weight: bold; color: white; width: 60%; height: 100%; padding-left: 500px;
+}
